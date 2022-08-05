@@ -4,13 +4,13 @@
 Jorge Gyotoku Neto
 
 # Nome do jogo:
-Cachorros loucos
+Pega Cachorro
 
 # Descrição do jogo:
-Busquei desenvolver um jogo relacionado com algo que eu tenha interesse, nisso resolvi desenvolver um jogo sobre cachorros. Com isso surgiu a idéia do jogo chamado cachorros loucos., no qual envolve imagens de diferentes cachorros engraçados e loucos.
+Busquei desenvolver um jogo relacionado com algo que eu tenha interesse, nisso resolvi desenvolver um jogo sobre cachorros. Com isso surgiu a idéia do jogo chamado Pega Cachorro, no qual envolve imagens de uma pessoa e um cachorro.
 
 # Jogabilidade:
-O jogo irá envolver um carro que o jogador irá controlar para desviar dos diferentes cachorros que iram surgindo de cima e embaixo , sua pontuação dependerá de quanto tempo o indivíduo sobreviver e um som de um cachorro gritando tocará ao colidir com o carro, quando os coracoes acabarem você perdeu o jogo e a tela final aparecera.
+O jogo irá envolver uma pessoa que o jogador irá controlar para correr atras do cachorro, sua pontuação dependerá de quanto tempo o indivíduo demorar para pegar o cachorro, quanto mais alta for a pontucao pior. Quando voce pegar o cachorro o jogo acabara e a tela final ira aparecer.
 
 # Como executar o jogo:
 
