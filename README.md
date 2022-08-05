@@ -13,6 +13,7 @@ Busquei desenvolver um jogo relacionado com algo que eu tenha interesse, nisso r
 O jogo irá envolver uma pessoa que o jogador irá controlar para correr atras do cachorro, sua pontuação dependerá de quanto tempo o indivíduo demorar para pegar o cachorro, quanto mais alta for a pontucao pior. Quando voce pegar o cachorro o jogo acabara e a tela final ira aparecer.
 
 # Como executar o jogo:
-Para jogar voce deve utilizar o arquivo jogo
+Para jogar voce deve utilizar o arquivo jogo.py
 # Link do vídeo do gameplay do jogo:
+https://youtube.com/shorts/IYkN9txvxiU?feature=share
         
