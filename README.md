@@ -15,3 +15,12 @@ O jogo irá envolver um carro que o jogador irá controlar para desviar dos dife
 # Como executar o jogo:
 
 # Link do vídeo do gameplay do jogo:
+        pygame.mixer.music.load('audio/dudu.mp3')
+        pygame.mixer.music.set_volume(0.4)
+        assets['grito'] = pygame.mixer.Sound('audio/grito.mp3')
+
+
+        pygame.mixer.music.load('audio/dudu.mp3')
+        pygame.mixer.music.set_volume(0.4)    
+        pygame.display.update() 
+        pygame.mixer.music.play(loops=-1)
